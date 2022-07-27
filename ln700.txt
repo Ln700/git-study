@@ -1,0 +1,15 @@
+ct + / select and comment
+
+
+github
+
+git init
+git status
+
+
+
+cmd
+windows + r
+cd chande direcrory
+dir list of folders
+cls clear 
