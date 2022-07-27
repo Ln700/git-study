@@ -6,6 +6,18 @@ github
 git init
 git status
 
+git add .
+git commit -m "first commit"
+git push
+
+git branch
+git branch name  (create branch)
+git branch -D name (delete branch)
+git checkout name (change to branch)
+
+git config --global user.name
+git push -u origin master
+
 
 
 cmd
